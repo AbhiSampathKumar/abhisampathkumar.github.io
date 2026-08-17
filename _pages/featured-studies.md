@@ -11,13 +11,13 @@ author_profile: true
 <div class="backdrop backdrop--br" style="--backdrop-img: url('/images/bd-somite.jpg')"></div>
 
 
-## Programming the early embryo
+## The first developmental programs
 
 **How are the first developmental programs established?**
 
 The earliest stages of mammalian development rely on a carefully orchestrated molecular program established immediately after fertilization. Before cells can adopt specialized identities or form tissues, the embryo must transition from maternal control to autonomous development while establishing the epigenetic landscape that enables lineage specification.
 
-Our work has focused on uncovering the epigenetic mechanisms that establish this developmental program. By investigating maternal chromatin regulators and the role of endogenous retroelements in early embryogenesis, we have identified molecular pathways that shape the earliest stages of embryonic development and lay the foundation for subsequent cell fate decisions.
+My work here has focused on the epigenetic mechanisms that set up this program. Studying maternal chromatin regulators and endogenous retroviruses in the early embryo, we identified pathways that shape its earliest stages and lay the ground for later fate decisions.
 
 **Loss of maternal Trim28 causes male-predominant early embryonic lethality**<br>
 *Genes & Development* (2017) · [Paper](https://genesdev.cshlp.org/content/31/1/12) · [Research highlight](https://www.nature.com/articles/nrm.2017.13)
@@ -29,11 +29,11 @@ Our work has focused on uncovering the epigenetic mechanisms that establish this
 
 ![Hijacking of transcriptional condensates by endogenous retroviruses](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-12.10.39.png?w=1024)
 
-## Programming tissues in space and time
+## Building tissues in space and time
 
 ### Epigenetic regulator function through mouse gastrulation · *Nature* 2020
 
-**How do transient developmental signals become stable cell identities?**
+**How are lineage decisions coordinated in time?**
 
 Gastrulation is the pivotal stage of mammalian development, during which pluripotent cells diversify into the three germ layers and the progenitors of every future organ. Understanding how these lineage decisions are coordinated in time remains a central challenge in developmental biology.
 

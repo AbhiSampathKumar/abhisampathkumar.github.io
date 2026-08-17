@@ -19,7 +19,7 @@ redirect_from:
      white plate styling off it, since it already blends into the page. -->
 <img class="plain" src="/images/home-overview.jpg" alt="An organism, its single-cell states, and those cells mapped back into space">
 
-I am a postdoctoral fellow in the laboratory of [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/), in the [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu) at Harvard University and the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research) at the Broad Institute of MIT and Harvard. I study how neuronal identities are established, maintained, and whether they can be reprogrammed in the mature brain.
+I am a postdoctoral fellow in the laboratory of [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/), in the [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu) at Harvard University and the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research) at the Broad Institute of MIT and Harvard. I study how neuronal identities are established and maintained, and whether they can be reprogrammed in the mature brain.
 
 My work is driven by one question: **how does a single cell reliably build a complex embryo?** I study the molecular logic by which cells acquire their identities, organize into tissues, and assemble reproducible structures during development - and I now extend those questions to the brain.
 

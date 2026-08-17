@@ -13,7 +13,9 @@ author_profile: true
 
 ## How do cells acquire, maintain, and change identity?
 
-Cellular identity underlies the formation, function, and regeneration of every tissue in the body. My research seeks to understand the biological rules that govern how cells acquire, maintain, and change identity. Using developmental systems as a framework, we investigate the molecular logic that programs cell identity during embryogenesis and ask whether those same principles can be harnessed to reprogram mature tissues.
+Cellular identity underlies the formation, function and regeneration of every tissue in the body. I want to understand the rules that govern how cells acquire, maintain and change it.
+
+Using development as a framework, I study how identity is programmed in the embryo — and ask whether the same principles can be used to reprogram mature tissue.
 
 <!-- Animated overview. The SVG carries its own animation, so it needs no script and
      loops on its own; class="plain" keeps the light-mode figure plate off it. -->
@@ -26,18 +28,18 @@ Cellular identity underlies the formation, function, and regeneration of every t
 
 ## Programming cellular identity
 
-**How does a single cell build a complex organism?**
+**How is a body plan built from a single cell?**
 
 Embryonic development transforms a single fertilized egg into a complex organism with extraordinary precision. Within days, genetically identical cells acquire distinct identities and organize into reproducible tissues and organs. How these developmental decisions are coordinated with such precision remains one of the central questions in developmental biology.
 
-My research seeks to uncover how transient developmental signals are translated into stable cell identities. By constructing molecular atlases of mammalian embryogenesis and investigating the roles of chromatin regulators, I study how cell fate is established while tissues are simultaneously patterned into complex biological structures.
+I study how transient developmental signals are turned into stable cell identities. By building single-cell and spatial atlases of mouse embryogenesis, and by perturbing developmental regulators in the embryo, I follow how cell fate is established at the same time as tissues are patterned.
 
 ## Maintaining cellular identity
 
 **Once cellular identities are established, how are they preserved?**
 
-The mammalian brain is one of the most stable tissues in the body. Although neuronal activity and connectivity remain dynamic throughout life, individual neurons maintain remarkably stable subtype identities for decades. The molecular mechanisms that preserve these identities, and limit their ability to change, remain largely unknown.
+Neurons are among the longest-lived cells in the body, and their subtype identities persist for decades. Activity and connectivity stay plastic throughout life; identity does not. The molecular mechanisms that preserve these identities, and limit their ability to change, remain largely unknown.
 
-My current research investigates how nuclear architecture and higher-order chromatin organization stabilize neuronal identity. Using genomic, organoid, and in vivo approaches, I seek to understand how genome organization preserves neuronal subtype identity across the lifespan and whether these mechanisms define the limits of cellular plasticity.
+My current work asks how nuclear architecture and higher-order chromatin organization hold that identity in place. Using genomic, organoid and in vivo approaches, I ask how genome organization preserves neuronal subtype identity across a lifespan — and whether it sets the limits of what can be reprogrammed.
 
 [Featured studies →](/featured-studies/)
