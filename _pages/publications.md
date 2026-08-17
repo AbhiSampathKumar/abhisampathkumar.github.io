@@ -16,7 +16,7 @@ A complete list is also available on [Google Scholar](https://scholar.google.com
 
 ## Doctoral thesis
 
-**Sampath Kumar A**. *Deciphering the molecular logic of mammalian embryogenesis.* Technische Universität Berlin / Max Planck Institute for Molecular Genetics. [Read the thesis](https://pure.mpg.de/rest/items/item_3661938/component/file_3661939/content)
+**Sampath Kumar A**. [Spatiotemporal architecture of mouse embryogenesis at single-cell resolution.](https://doi.org/10.14279/depositonce-17573) PhD thesis, Technische Universität Berlin, 2023. Research conducted at the Max Planck Institute for Molecular Genetics with Alexander Meissner. doi: 10.14279/depositonce-17573. [PDF](https://pure.mpg.de/rest/items/item_3661938/component/file_3661939/content)
 
 ## Lead-author work
 

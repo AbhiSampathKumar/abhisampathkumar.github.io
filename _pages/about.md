@@ -47,7 +47,7 @@ My work is driven by one question: **how does a single cell reliably build a com
 
 ## training
 
-- PhD with [Alexander Meissner](https://www.molgen.mpg.de/meissner-lab), Max Planck Institute for Molecular Genetics · doctoral studies through TU Berlin · [thesis](https://pure.mpg.de/rest/items/item_3661938/component/file_3661939/content)
+- PhD with [Alexander Meissner](https://www.molgen.mpg.de/meissner-lab), Max Planck Institute for Molecular Genetics · doctoral studies through TU Berlin · [thesis](https://doi.org/10.14279/depositonce-17573)
 
 <img class="plain" src="/images/training-cities.jpg" alt="Chennai, hometown · Singapore, exchange programme · Jena, master's · Berlin, PhD · Boston, postdoc">
 
