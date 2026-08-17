@@ -20,9 +20,9 @@ author:
   avatar           : "profile.jpeg"       # the file at images/profile.jpeg
   name             : "Abhishek Sampath Kumar, PhD"
   pronouns         :
-  bio              : "Postdoctoral fellow in the Arlotta Lab, studying how neuronal identity is established, maintained, and whether it can be rewritten."
+  bio              : "Postdoctoral fellow · Harvard University<br>Development · Epigenetics · Stem cells · Organoids"
   location         : "Cambridge, MA"
-  employer         : "HSCRB, Harvard University · Stanley Center, Broad Institute"
+  employer         :                       # blank = row hidden in the sidebar
   uri              :
   email            : "abhisheksampathkumar@fas.harvard.edu"
 
