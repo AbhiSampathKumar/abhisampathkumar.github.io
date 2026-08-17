@@ -241,7 +241,7 @@
     height: 100vh;
     z-index: 0;
     pointer-events: none;
-    opacity: 0.5;
+    opacity: 0.62;
     background-image: var(--side-img);
     background-repeat: no-repeat;
     background-size: contain;
@@ -272,16 +272,16 @@
     position: fixed;
     z-index: 0;
     pointer-events: none;
-    opacity: 0.16;
-    width: 42vw;
-    max-width: 620px;
+    opacity: 0.26;          /* the dial: ~0.3 is where body text starts to suffer */
+    width: 46vw;
+    max-width: 700px;
     aspect-ratio: 1;
     background-image: var(--backdrop-img);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    -webkit-mask-image: radial-gradient(closest-side, #000 40%, transparent 100%);
-    mask-image: radial-gradient(closest-side, #000 40%, transparent 100%);
+    -webkit-mask-image: radial-gradient(closest-side, #000 52%, transparent 100%);
+    mask-image: radial-gradient(closest-side, #000 52%, transparent 100%);
   }
 
   .backdrop--tr { top: -6vh;  right: -8vw; }
@@ -289,7 +289,7 @@
   .backdrop--bl { bottom: -6vh; left: -8vw; }
   .backdrop--tl { top: -8vh;  left: -6vw; }
   .backdrop--c  { top: 50%; left: 50%; transform: translate(-50%, -50%);
-                  width: 70vw; max-width: 900px; opacity: 0.1; }
+                  width: 74vw; max-width: 960px; opacity: 0.16; }
 
   /* keep the text above both decorative layers */
   #main,
@@ -305,7 +305,7 @@
 
   /* On phones a backdrop mostly gets in the way of reading */
   @media (max-width: 700px) {
-    .backdrop { opacity: 0.1; }
+    .backdrop { opacity: 0.15; }
   }
 
   /* Title sitting over the hero band */
