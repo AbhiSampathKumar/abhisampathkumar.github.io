@@ -11,13 +11,13 @@ title                    : "Abhishek Sampath Kumar"
 title_separator          : "·"
 name                     : &name "Abhishek Sampath Kumar"
 description              : &description "Postdoctoral fellow studying how cells acquire, maintain, and change identity."
-url                      : https://abhisampathkumar.github.io
+url                      : https://abhisheksampathkumar.github.io
 baseurl                  : ""
-repository               : "AbhiSampathKumar/abhisampathkumar.github.io"
+repository               : "AbhiSampathKumar/abhisheksampathkumar.github.io"
 
 # Site Author — controls the left-hand sidebar. Blank fields are hidden.
 author:
-  avatar           : "profile.jpeg"        # place the file at images/profile.jpg
+  avatar           : "profile.jpg"        # place the file at images/profile.jpg
   name             : "Abhishek Sampath Kumar, PhD"
   pronouns         :
   bio              : "Postdoctoral fellow in the Arlotta Lab, studying how neuronal identity is established, maintained, and whether it can be rewritten."
@@ -126,7 +126,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "profile.jpeg"
+og_image                 : "/images/profile.jpg"
 og_description           : *description
 social:
   type                   : Person
