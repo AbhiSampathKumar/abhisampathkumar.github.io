@@ -15,9 +15,16 @@ author_profile: true
 
 Cellular identity underlies the formation, function, and regeneration of every tissue in the body. My research seeks to understand the biological rules that govern how cells acquire, maintain, and change identity. Using developmental systems as a framework, we investigate the molecular logic that programs cell identity during embryogenesis and ask whether those same principles can be harnessed to reprogram mature tissues.
 
-<!-- All figures on this page are hosted on WordPress. If that site ever goes away,
-     download each file, upload it to images/ in this repo, and swap the src. -->
-![Overview of how cells acquire, maintain, and change identity](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-16.43.51.png?w=1024)
+<!-- Animated overview. The SVG carries its own animation, so it needs no script and
+     loops on its own; class="plain" keeps the light-mode figure plate off it. -->
+<img class="plain schematic" src="/images/research-schematic.svg"
+     alt="Animation: a zygote develops through cleavage, blastocyst, epiblast and germ layers to an
+          E9.5 embryo; cell states branch into lineages; organ domains are labelled on the embryo;
+          the view zooms into the telencephalon, where cortical neuronal subtypes emerge and are then
+          maintained in the adult brain for decades without cell division.">
+
+<p class="figcaption">A 90-second loop: one cell, then lineages, then organs, then neurons that hold
+their identity for life. Five questions, in sequence.</p>
 
 ## Programming cellular identity
 
