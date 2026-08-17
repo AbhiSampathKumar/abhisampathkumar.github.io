@@ -15,7 +15,7 @@ url                      : https://abhisampathkumar.github.io
 baseurl                  : ""
 repository               : "AbhiSampathKumar/abhisampathkumar.github.io"
 
-# Site Author — controls the left-hand sidebar. Blank fields are hidden.
+# Site Author - controls the left-hand sidebar. Blank fields are hidden.
 author:
   avatar           : "profile.jpeg"       # the file at images/profile.jpeg
   name             : "Abhishek Sampath Kumar, PhD"
