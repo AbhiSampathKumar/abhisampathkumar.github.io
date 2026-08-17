@@ -17,7 +17,7 @@ repository               : "AbhiSampathKumar/abhisheksampathkumar.github.io"
 
 # Site Author — controls the left-hand sidebar. Blank fields are hidden.
 author:
-  avatar           : "profile.jpg"        # place the file at images/profile.jpg
+  avatar           : "profile.jpeg"        # place the file at images/profile.jpg
   name             : "Abhishek Sampath Kumar, PhD"
   pronouns         :
   bio              : "Postdoctoral fellow in the Arlotta Lab, studying how neuronal identity is established, maintained, and whether it can be rewritten."
