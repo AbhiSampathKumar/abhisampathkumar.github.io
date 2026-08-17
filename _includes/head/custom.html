@@ -208,6 +208,87 @@
     margin: 2.6em 0 2.2em;
   }
 
+  /* ---- Specimen down the right margin ----
+     Fixed to the viewport so it stays put while the page scrolls, sitting
+     behind the text and fading out towards the content on the left and at
+     the top and bottom. Purely decorative: pointer-events off, and hidden
+     on narrower screens where there is no spare margin. ---- */
+  .side-specimen {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 20vw;
+    max-width: 330px;
+    height: 100vh;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.5;
+    background-image: var(--side-img);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right center;
+    -webkit-mask-image:
+      linear-gradient(to left, #000 55%, transparent 100%),
+      linear-gradient(to bottom, transparent 0, #000 18%, #000 82%, transparent 100%);
+    -webkit-mask-composite: source-in;
+    mask-image:
+      linear-gradient(to left, #000 55%, transparent 100%),
+      linear-gradient(to bottom, transparent 0, #000 18%, #000 82%, transparent 100%);
+    mask-composite: intersect;
+  }
+
+  /* ---- Faded backdrops ----
+     Specimens sitting behind the page, fixed while you scroll, at low opacity
+     so body text stays readable. Each fades to nothing at its own edges, so
+     several can share a page without showing seams.
+
+     Usage: any number per page. Give each a position modifier class and pass
+     the image file through the --backdrop-img variable; see the top of
+     research.md for a working example.
+
+     Positions: --tr top right, --br bottom right, --bl bottom left,
+                --tl top left, --c centred and larger.
+     `opacity` is the dial to turn; past ~0.25 text starts to suffer. ---- */
+  .backdrop {
+    position: fixed;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.16;
+    width: 42vw;
+    max-width: 620px;
+    aspect-ratio: 1;
+    background-image: var(--backdrop-img);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    -webkit-mask-image: radial-gradient(closest-side, #000 40%, transparent 100%);
+    mask-image: radial-gradient(closest-side, #000 40%, transparent 100%);
+  }
+
+  .backdrop--tr { top: -6vh;  right: -8vw; }
+  .backdrop--br { bottom: -8vh; right: -6vw; }
+  .backdrop--bl { bottom: -6vh; left: -8vw; }
+  .backdrop--tl { top: -8vh;  left: -6vw; }
+  .backdrop--c  { top: 50%; left: 50%; transform: translate(-50%, -50%);
+                  width: 70vw; max-width: 900px; opacity: 0.1; }
+
+  /* keep the text above both decorative layers */
+  #main,
+  .masthead,
+  .page__footer {
+    position: relative;
+    z-index: 1;
+  }
+
+  @media (max-width: 1200px) {
+    .side-specimen { display: none; }
+  }
+
+  /* On phones a backdrop mostly gets in the way of reading */
+  @media (max-width: 700px) {
+    .backdrop { opacity: 0.1; }
+  }
+
   /* Title sitting over the hero band */
   .page__hero--overlay {
     height: 300px;
@@ -250,6 +331,22 @@
     background: #ffffff;
     padding: 0.6em;
     border: 1px solid var(--global-border-color);
+  }
+
+  /* Figures that already have a black background need no plate -- they should
+     bleed straight into the page. Mark them <img class="plain" ...>. */
+  html[data-theme="dark"] .page__content img.plain,
+  html[data-theme="dark"] .page__content p > img.plain {
+    background: none;
+    padding: 0;
+    border: none;
+  }
+
+  .page__content img.plain {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 1.2em 0;
   }
 
   /* ---- Footer ---- */
