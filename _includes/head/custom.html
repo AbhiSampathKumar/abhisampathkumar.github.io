@@ -349,6 +349,20 @@
     margin: 1.2em 0;
   }
 
+  /* The animated schematic: full column width, its own aspect ratio reserved so the
+     page doesn't jump while the 313 KB file loads. */
+  .page__content img.schematic {
+    aspect-ratio: 1200 / 760;
+    margin: 1.4em 0 0.6em;
+  }
+
+  .page__content .figcaption {
+    color: var(--global-text-color-light);
+    font-size: 0.86em;
+    line-height: 1.5;
+    margin: 0 0 2.2em;
+  }
+
   /* ---- Footer ---- */
   .page__footer {
     border-top: 1px solid var(--global-border-color);
