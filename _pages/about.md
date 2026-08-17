@@ -13,13 +13,13 @@ redirect_from:
      file and re-upload it to images/ in this repo, then change the src below. -->
 ![](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-16.31.14.png?w=1024)
 
-I am a postdoctoral fellow in the laboratory of [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/), in the [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu/) at Harvard University and the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley) at the Broad Institute of MIT and Harvard. I study how neuronal identities are established, maintained, and whether they can be reprogrammed in the mature brain.
+I am a postdoctoral fellow in the laboratory of [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/), in the [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu) at Harvard University and the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research) at the Broad Institute of MIT and Harvard. I study how neuronal identities are established, maintained, and whether they can be reprogrammed in the mature brain.
 
 My work is driven by one question: **how does a single cell reliably build a complex embryo?** I study the molecular logic by which cells acquire their identities, organize into tissues, and assemble reproducible structures during development — and I now extend those questions to the brain.
 
 ## now
 
-- Postdoctoral fellow · [Arlotta Lab](https://hscrb.harvard.edu/labs/arlotta-lab/) · [HSCRB](https://hscrb.harvard.edu/), Harvard University & the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley), Broad Institute of MIT and Harvard
+- Postdoctoral fellow · [Arlotta Lab](https://hscrb.harvard.edu/labs/arlotta-lab/) · [HSCRB](https://hscrb.harvard.edu), Harvard University & the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research), Broad Institute of MIT and Harvard
 - Nuclear architecture and higher-order chromatin organization as stabilizers of neuronal subtype identity
 
 ## research
