@@ -1,11 +1,52 @@
-<!-- Custom head additions. AcademicPages includes this file inside <head>,
-     so anything here overrides the theme's default styles. -->
+<!-- Custom head additions. AcademicPages includes this file inside <head> after
+     main.css, so anything here overrides the theme's default styles. -->
+
+<!-- Default the site to dark mode. Runs before first paint, so there's no
+     white flash. The theme's toggle button (top right) still works and its
+     choice is remembered in localStorage. -->
+<script>document.documentElement.setAttribute("data-theme", "dark");</script>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
 
 <style>
+  /* ---- True black palette ----
+     The theme's own dark mode is a mid grey (#474747). These override its
+     CSS variables to black. Same selector as the theme uses, declared later,
+     so these win. Everything below reads from these variables, which means
+     the light theme still works if a visitor flips the toggle. ---- */
+  html[data-theme="dark"] {
+    --global-bg-color: #000000;
+    --global-footer-bg-color: #000000;
+    --global-border-color: #262626;
+    --global-dark-border-color: #333333;
+    --global-code-background-color: #111111;
+    --global-code-text-color: #e8e8e8;
+    --global-fig-caption-color: #a8a8a8;
+    --global-link-color: #62c7e3;
+    --global-link-color-hover: #9adcef;
+    --global-link-color-visited: #8ab6c4;
+    --global-masthead-link-color: #ffffff;
+    --global-masthead-link-color-hover: #62c7e3;
+    --global-text-color: #ffffff;
+    --global-text-color-light: #b5b5b5;
+    --global-thead-color: #1a1a1a;
+  }
+
+  /* Belt and braces: some elements set their background from Sass rather than
+     from the variables above. */
+  html[data-theme="dark"],
+  html[data-theme="dark"] body,
+  html[data-theme="dark"] #main,
+  html[data-theme="dark"] .page,
+  html[data-theme="dark"] .masthead,
+  html[data-theme="dark"] .page__footer,
+  html[data-theme="dark"] .greedy-nav,
+  html[data-theme="dark"] .greedy-nav .hidden-links {
+    background-color: #000000;
+  }
+
   /* ---- Typography: serif headings, quiet sans body ---- */
   body,
   .page__content,
@@ -13,7 +54,7 @@
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 16px;
     line-height: 1.65;
-    color: #1f2328;
+    color: var(--global-text-color);
   }
 
   h1, h2, h3, h4, h5, h6,
@@ -23,7 +64,7 @@
     font-family: "Newsreader", Georgia, serif;
     font-weight: 500;
     letter-spacing: -0.01em;
-    color: #111;
+    color: var(--global-text-color);
   }
 
   .page__title {
@@ -36,7 +77,7 @@
     font-size: 1.45em;
     margin-top: 2.2em;
     padding-bottom: 0.25em;
-    border-bottom: 1px solid #e6e6e6;
+    border-bottom: 1px solid var(--global-border-color);
   }
 
   .page__content h3 {
@@ -47,15 +88,15 @@
   /* ---- Links: understated, underline on hover ---- */
   a,
   .page__content a {
-    color: #14507a;
+    color: var(--global-link-color);
     text-decoration: none;
-    border-bottom: 1px solid rgba(20, 80, 122, 0.25);
+    border-bottom: 1px solid rgba(98, 199, 227, 0.3);
   }
 
   a:hover,
   .page__content a:hover {
-    color: #0d3a59;
-    border-bottom-color: #0d3a59;
+    color: var(--global-link-color-hover);
+    border-bottom-color: currentColor;
     text-decoration: none;
   }
 
@@ -71,7 +112,7 @@
 
   /* ---- Header ---- */
   .masthead {
-    border-bottom: 1px solid #ececec;
+    border-bottom: 1px solid var(--global-border-color);
   }
 
   .masthead__inner-wrap {
@@ -79,13 +120,13 @@
   }
 
   .greedy-nav .visible-links a::before {
-    background: #14507a;
+    background: var(--global-link-color);
   }
 
   /* ---- Sidebar / author profile ---- */
   .author__avatar img {
     border-radius: 4px;
-    border: 1px solid #eee;
+    border: 1px solid var(--global-border-color);
     max-width: 180px;
   }
 
@@ -97,7 +138,7 @@
   .author__bio {
     font-size: 0.85em;
     line-height: 1.5;
-    color: #555;
+    color: var(--global-text-color-light);
   }
 
   .author__urls-wrapper li {
@@ -114,7 +155,7 @@
     font-style: italic;
     font-size: 2em;        /* ~32px against the 16px body */
     line-height: 1.2;
-    color: #2b2b2b;
+    color: var(--global-text-color);
     margin: 0.15em 0 1.1em;
     padding-left: 0;
     border-left: none;
@@ -129,23 +170,35 @@
     margin-bottom: 0.45em;
   }
 
-  /* ---- Figures ---- */
+  /* ---- Figures ----
+     The research figures have white backgrounds, which would otherwise sit on
+     black as hard-edged bright rectangles. A soft border and inset padding
+     make them read as plates rather than holes in the page. ---- */
   .page__content img {
     border-radius: 4px;
   }
 
+  html[data-theme="dark"] .page__content p > img {
+    background: #ffffff;
+    padding: 0.6em;
+    border: 1px solid var(--global-border-color);
+  }
+
   /* ---- Footer ---- */
   .page__footer {
-    background: #fafafa;
-    border-top: 1px solid #ececec;
-    color: #777;
+    border-top: 1px solid var(--global-border-color);
+    color: var(--global-text-color-light);
   }
 
   .page__footer footer {
     font-size: 0.8em;
   }
 
-  /* ---- Print / small screens ---- */
+  .page__footer a {
+    color: var(--global-link-color);
+  }
+
+  /* ---- Small screens ---- */
   @media (max-width: 600px) {
     .page__title { font-size: 1.7em; }
     .page__content p.tagline,
