@@ -23,8 +23,6 @@ Cellular identity underlies the formation, function, and regeneration of every t
           the view zooms into the telencephalon, where cortical neuronal subtypes emerge and are then
           maintained in the adult brain for decades without cell division.">
 
-<p class="figcaption">A 90-second loop: one cell, then lineages, then organs, then neurons that hold
-their identity for life. Five questions, in sequence.</p>
 
 ## Programming cellular identity
 

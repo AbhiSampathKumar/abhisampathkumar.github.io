@@ -9,10 +9,9 @@ redirect_from:
 <!-- Specimen running down the right-hand margin, fixed as you scroll.
      Hidden below 1200px wide so it never crowds the text. -->
 <div class="side-specimen" style="--side-img: url('/images/side-specimen.jpg')"></div>
+<!-- Ring embryo, low in the left margin, under the sidebar links -->
+<div class="backdrop backdrop--bl" style="--backdrop-img: url('/images/bd-ring2.jpg')"></div>
 
-<!-- Microscopy band. Swap the filename to change the image; the fade is in
-     _includes/head/custom.html. -->
-<div class="band" style="--band-img: url('/images/band-home.jpg')"></div>
 
 <p class="tagline">Development generates diversity. Biology preserves it. Can we rewrite it?</p>
 
