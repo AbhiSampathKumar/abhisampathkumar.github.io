@@ -19,11 +19,13 @@ Using development as a framework, I study how identity is programmed in the embr
 
 <!-- Animated overview. The SVG carries its own animation, so it needs no script and
      loops on its own; class="plain" keeps the light-mode figure plate off it. -->
+<div class="figscroll">
 <img class="plain schematic" src="/images/research-schematic.svg"
      alt="Animation: a zygote develops through cleavage, blastocyst, epiblast and germ layers to an
           E9.5 embryo; cell states branch into lineages; organ domains are labelled on the embryo;
           the view zooms into the telencephalon, where cortical neuronal subtypes emerge and are then
           maintained in the adult brain for decades without cell division.">
+</div>
 
 
 ## Programming cellular identity
