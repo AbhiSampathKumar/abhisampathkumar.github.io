@@ -123,7 +123,26 @@
     background: var(--global-link-color);
   }
 
-  /* ---- Sidebar / author profile ---- */
+  /* ---- Sidebar / author profile ----
+     The theme makes the sidebar sticky, so on a long page the photo and name ride
+     up over the masthead and cover the site title. Pin it in the normal flow and
+     keep the header above it. ---- */
+  .sidebar,
+  .sidebar.sticky {
+    position: relative;
+    top: auto;
+    overflow: visible;
+    height: auto;
+    z-index: 0;
+  }
+
+  .masthead {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--global-bg-color);
+  }
+
   .author__avatar img {
     border-radius: 4px;
     border: 1px solid var(--global-border-color);
