@@ -1,7 +1,7 @@
 # ============================================================================
 #  Site-wide configuration for Abhishek Sampath Kumar
 #  Template: AcademicPages (https://github.com/academicpages/academicpages.github.io)
-#  Live at: https://abhisheksampathkumar.github.io
+#  Live at: https://abhisampathkumar.github.io
 # ============================================================================
 
 # Basic Site Settings
@@ -11,18 +11,18 @@ title                    : "Abhishek Sampath Kumar"
 title_separator          : "·"
 name                     : &name "Abhishek Sampath Kumar"
 description              : &description "Postdoctoral fellow studying how cells acquire, maintain, and change identity."
-url                      : https://abhisheksampathkumar.github.io
+url                      : https://abhisampathkumar.github.io
 baseurl                  : ""
-repository               : "AbhiSampathKumar/abhisheksampathkumar.github.io"
+repository               : "AbhiSampathKumar/abhisampathkumar.github.io"
 
 # Site Author — controls the left-hand sidebar. Blank fields are hidden.
 author:
-  avatar           : "profile.jpg"        # place the file at images/profile.jpg
+  avatar           : "profile.jpeg"       # the file at images/profile.jpeg
   name             : "Abhishek Sampath Kumar, PhD"
   pronouns         :
   bio              : "Postdoctoral fellow in the Arlotta Lab, studying how neuronal identity is established, maintained, and whether it can be rewritten."
   location         : "Cambridge, MA"
-  employer         : "Harvard University & Harvard Stem Cell Institute"
+  employer         : "HSCRB, Harvard University · Stanley Center, Broad Institute"
   uri              :
   email            : "abhisheksampathkumar@fas.harvard.edu"
 
@@ -126,7 +126,311 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/profile.jpg"
+og_image                 : "profile.jpeg"
+og_description           : *description
+social:
+  type                   : Person
+  name                   : *name
+  links:
+    - "https://x.com/AbhiSampKumar"
+    - "https://www.linkedin.com/in/abhishek-sampath-kumar-70299944"
+    - "https://orcid.org/0000-0001-7918-6706"
+    - "https://scholar.google.com/citations?user=-1l953YAAAAJ&hl=en"
+
+# Analytics
+analytics:
+  provider               : "false"
+  google:
+    tracking_id          :
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .github
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - CHANGELOG
+  - Capfile
+  - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - local
+  - log
+  - node_modules
+  - package.json*
+  - Rakefile
+  - README
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: false
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+permalink: /:categories/:title/
+timezone: America/New_York
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+whitelist:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development# ============================================================================
+#  Site-wide configuration for Abhishek Sampath Kumar
+#  Template: AcademicPages (https://github.com/academicpages/academicpages.github.io)
+#  Live at: https://abhisampathkumar.github.io
+# ============================================================================
+
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"   # options: default, air, sunrise, mint, dirt, contrast
+title                    : "Abhishek Sampath Kumar"
+title_separator          : "·"
+name                     : &name "Abhishek Sampath Kumar"
+description              : &description "Postdoctoral fellow studying how cells acquire, maintain, and change identity."
+url                      : https://abhisampathkumar.github.io
+baseurl                  : ""
+repository               : "AbhiSampathKumar/abhisampathkumar.github.io"
+
+# Site Author — controls the left-hand sidebar. Blank fields are hidden.
+author:
+  avatar           : "profile.jpeg"       # the file at images/profile.jpeg
+  name             : "Abhishek Sampath Kumar, PhD"
+  pronouns         :
+  bio              : "Postdoctoral fellow in the Arlotta Lab, studying how neuronal identity is established, maintained, and whether it can be rewritten."
+  location         : "Cambridge, MA"
+  employer         : "HSCRB, Harvard University · Stanley Center, Broad Institute"
+  uri              :
+  email            : "abhisheksampathkumar@fas.harvard.edu"
+
+  # Academic profiles
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=-1l953YAAAAJ&hl=en"
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/0000-0001-7918-6706"
+  semantic         :
+  ssrn             :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/abhishek.sampath%20kumar.1/bibliography/public/"
+  researchgate     :
+  scopus           :
+  zotero           :
+
+  # Repositories and software
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "AbhiSampathKumar"
+  kaggle           :
+  stackoverflow    :
+
+  # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "abhishek-sampath-kumar-70299944"
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          : "AbhiSampKumar"
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
+
+# Publication categories (only used if you switch to the _publications collection)
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
+comments:
+  provider               : false
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601"
+atom_feed:
+  hide                   : true
+  path                   :
+
+# SEO
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social sharing
+twitter:
+  username               : &twitter "AbhiSampKumar"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : "profile.jpeg"
 og_description           : *description
 social:
   type                   : Person
