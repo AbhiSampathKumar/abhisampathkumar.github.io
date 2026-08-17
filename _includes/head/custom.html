@@ -104,16 +104,20 @@
     font-size: 0.85em;
   }
 
-  /* ---- Tagline on the home page ---- */
+  /* ---- Tagline: the lead line on the home page, in place of an h1 ----
+     The two-part selector is deliberate. The theme sets font-size 1em on
+     .page__content p, which is more specific than .tagline alone and would
+     otherwise win no matter what size is set here. ---- */
+  .page__content p.tagline,
   .tagline {
     font-family: "Newsreader", Georgia, serif;
     font-style: italic;
-    font-size: 1.25em;
-    line-height: 1.45;
-    color: #4a4a4a;
-    margin: 0 0 1.5em;
-    padding-left: 1em;
-    border-left: 3px solid #e0e0e0;
+    font-size: 2em;        /* ~32px against the 16px body */
+    line-height: 1.2;
+    color: #2b2b2b;
+    margin: 0.15em 0 1.1em;
+    padding-left: 0;
+    border-left: none;
   }
 
   /* ---- Compact lists (the "now / research / selected work" blocks) ---- */
@@ -144,6 +148,7 @@
   /* ---- Print / small screens ---- */
   @media (max-width: 600px) {
     .page__title { font-size: 1.7em; }
-    .tagline { font-size: 1.1em; }
+    .page__content p.tagline,
+    .tagline { font-size: 1.45em; }
   }
 </style>
