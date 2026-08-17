@@ -3,12 +3,20 @@ layout: single
 permalink: /publications/
 title: "Publications"
 author_profile: true
-header:
-  overlay_image: band-publications.jpg   # file lives in images/ ; bare filename
-  overlay_filter: rgba(0, 0, 0, 0.25)
 ---
 
+<!-- Faded specimens behind the page. Positions and opacity live in
+     _includes/head/custom.html -->
+<div class="backdrop backdrop--tr" style="--backdrop-img: url('/images/bd-nuclei.jpg')"></div>
+<div class="backdrop backdrop--bl" style="--backdrop-img: url('/images/bd-ring2.jpg')"></div>
+<div class="backdrop backdrop--br" style="--backdrop-img: url('/images/bd-dots.jpg')"></div>
+
+
 A complete list is also available on [Google Scholar](https://scholar.google.com/citations?user=-1l953YAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0001-7918-6706).
+
+## Doctoral thesis
+
+**Sampath Kumar A**. *Deciphering the molecular logic of mammalian embryogenesis.* Technische Universität Berlin / Max Planck Institute for Molecular Genetics. [Read the thesis](https://pure.mpg.de/rest/items/item_3661938/component/file_3661939/content)
 
 ## Lead-author work
 
@@ -26,7 +34,7 @@ You Y, Fu Y, Li L, Zhang Z, Jia S, Lu S, Ren W, Liu Y, Xu Y, Liu X, Jiang F, Pen
 
 Antón-Bolaños N, Faravelli I, Faits T, Andreadis S, Kastli R, Trattaro S, Adiconis X, Wei A, **Sampath Kumar A**, Di Bella DJ, Tegtmeyer M, Nehme R, Levin JZ, Regev A, Arlotta P. [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers.](https://www.ncbi.nlm.nih.gov/pubmed/38926573/) ***Nature***. 2024 Jul;631(8019):142-149. doi: 10.1038/s41586-024-07578-8. PMID: 38926573; PMCID: PMC11338177.
 
-Stötzel M, Cheng CY, IIik IA, **Kumar AS**, Omgba PA, van der Weijden VA, Zhang Y, Vingron M, Meissner A, Aktaş T, Kretzmer H, Bulut-Karslioğlu A. [TET activity safeguards pluripotency throughout embryonic dormancy.](https://www.ncbi.nlm.nih.gov/pubmed/38783076/) ***Nature Structural and Molecular Biology***. 2024 Oct;31(10):1625-1639. doi: 10.1038/s41594-024-01313-7. PMID: 38783076; PMCID: PMC11479945.
+Stötzel M, Cheng CY, IIik IA, **Sampath Kumar A**, Omgba PA, van der Weijden VA, Zhang Y, Vingron M, Meissner A, Aktaş T, Kretzmer H, Bulut-Karslioğlu A. [TET activity safeguards pluripotency throughout embryonic dormancy.](https://www.ncbi.nlm.nih.gov/pubmed/38783076/) ***Nature Structural and Molecular Biology***. 2024 Oct;31(10):1625-1639. doi: 10.1038/s41594-024-01313-7. PMID: 38783076; PMCID: PMC11479945.
 
 Sato N, Rosa VS, Makhlouf A, Kretzmer H, **Sampath Kumar A**, Grosswendt S, Mattei AL, Courbot O, Wolf S, Boulanger J, Langevin F, Wiacek M, Karpinski D, Elosegui-Artola A, Meissner A, Zernicka-Goetz M, Shahbazi MN. [Basal delamination during mouse gastrulation primes pluripotent cells for differentiation.](https://www.ncbi.nlm.nih.gov/pubmed/38579720/) ***Developmental Cell***. 2024 May 20;59(10):1252-1268.e13. doi: 10.1016/j.devcel.2024.03.008. PMID: 38579720; PMCID: PMC7616279.
 

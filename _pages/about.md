@@ -6,15 +6,19 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Specimen running down the right-hand margin, fixed as you scroll.
+     Hidden below 1200px wide so it never crowds the text. -->
+<div class="side-specimen" style="--side-img: url('/images/side-specimen.jpg')"></div>
+
 <!-- Microscopy band. Swap the filename to change the image; the fade is in
      _includes/head/custom.html. -->
 <div class="band" style="--band-img: url('/images/band-home.jpg')"></div>
 
 <p class="tagline">Development generates diversity. Biology preserves it. Can we rewrite it?</p>
 
-<!-- Banner image. Hosted on WordPress -- if that site ever goes away, download the
-     file and re-upload it to images/ in this repo, then change the src below. -->
-![](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-16.31.14.png?w=1024)
+<!-- Black-background figure, hosted in this repo. class="plain" keeps the
+     white plate styling off it, since it already blends into the page. -->
+<img class="plain" src="/images/home-overview.jpg" alt="An organism, its single-cell states, and those cells mapped back into space">
 
 I am a postdoctoral fellow in the laboratory of [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/), in the [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu) at Harvard University and the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research) at the Broad Institute of MIT and Harvard. I study how neuronal identities are established, maintained, and whether they can be reprogrammed in the mature brain.
 
@@ -31,24 +35,21 @@ My work is driven by one question: **how does a single cell reliably build a com
 
 [Read more →](/research/)
 
-<div class="band band--strip" style="--band-img: url('/images/band-strip.jpg')"></div>
-
 ## selected work
 
 - [Human brain organoids record the passage of time over multiple years in culture](https://www.ncbi.nlm.nih.gov/pubmed/41256667/) · *Nature* 2026 - organoids keep an internal clock across years, tracking developmental time independently of their environment
-- [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers](https://www.nature.com/articles/s41586-024-07578-8) · *Nature* 2024 - multi-donor organoids that expose how genetic background shapes vulnerability to insult
 - [Spatiotemporal transcriptomic maps of whole mouse embryos at the onset of organogenesis](https://www.nature.com/articles/s41588-023-01435-6) · *Nature Genetics* 2023 - a 3D spatiotemporal atlas of the developing mouse embryo, enabling "virtual in situ hybridization" for thousands of genes
-- [Hijacking of transcriptional condensates by endogenous retroviruses](https://www.nature.com/articles/s41588-022-01132-w) · *Nature Genetics* 2022
-- [Epigenetic regulator function through mouse gastrulation](https://www.nature.com/articles/s41586-020-2552-x) · *Nature* 2020
-- [Loss of maternal Trim28 causes male-predominant early embryonic lethality](https://genesdev.cshlp.org/content/31/1/12) · *Genes & Development* 2017
+- [Hijacking of transcriptional condensates by endogenous retroviruses](https://www.nature.com/articles/s41588-022-01132-w) · *Nature Genetics* 2022 - retroelements capture transcriptional condensates, redirecting the machinery that drives gene expression
+- [Epigenetic regulator function through mouse gastrulation](https://www.nature.com/articles/s41586-020-2552-x) · *Nature* 2020 - a systematic map of how chromatin regulators shape lineage decisions as the germ layers emerge
+- [Loss of maternal Trim28 causes male-predominant early embryonic lethality](https://genesdev.cshlp.org/content/31/1/12) · *Genes & Development* 2017 - a maternal chromatin factor is required after fertilization, with male embryos most vulnerable to its loss
 
 [Full publication list →](/publications/)
 
 ## training
 
-- PhD with [Alexander Meissner](https://www.molgen.mpg.de/meissner-lab), Max Planck Institute for Molecular Genetics · doctoral studies through TU Berlin
+- PhD with [Alexander Meissner](https://www.molgen.mpg.de/meissner-lab), Max Planck Institute for Molecular Genetics · doctoral studies through TU Berlin · [thesis](https://pure.mpg.de/rest/items/item_3661938/component/file_3661939/content)
 
-![Chennai · Singapore · Jena · Berlin · Boston](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-17.05.09.png?w=1024)
+<img class="plain" src="/images/training-cities.jpg" alt="Chennai, hometown · Singapore, exchange programme · Jena, master's · Berlin, PhD · Boston, postdoc">
 
 ## contact
 
