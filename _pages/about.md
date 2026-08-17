@@ -14,7 +14,7 @@ redirect_from:
 
 I am a postdoctoral fellow in the laboratory of [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/), in the [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu) at Harvard University and the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research) at the Broad Institute of MIT and Harvard. I study how neuronal identities are established, maintained, and whether they can be reprogrammed in the mature brain.
 
-My work is driven by one question: **how does a single cell reliably build a complex embryo?** I study the molecular logic by which cells acquire their identities, organize into tissues, and assemble reproducible structures during development — and I now extend those questions to the brain.
+My work is driven by one question: **how does a single cell reliably build a complex embryo?** I study the molecular logic by which cells acquire their identities, organize into tissues, and assemble reproducible structures during development - and I now extend those questions to the brain.
 
 ## now
 
@@ -22,16 +22,16 @@ My work is driven by one question: **how does a single cell reliably build a com
 
 ## research
 
-- **Programming cellular identity** — how transient developmental signals become stable cell fates
-- **Maintaining cellular identity** — how genome organization preserves neuronal identity across the lifespan, and what defines the limits of plasticity
+- **Programming cellular identity** - how transient developmental signals become stable cell fates
+- **Maintaining cellular identity** - how genome organization preserves neuronal identity across the lifespan, and what defines the limits of plasticity
 
 [Read more →](/research/)
 
 ## selected work
 
-- [Human brain organoids record the passage of time over multiple years in culture](https://www.ncbi.nlm.nih.gov/pubmed/41256667/) · *Nature* 2026 — organoids keep an internal clock across years, tracking developmental time independently of their environment
-- [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers](https://www.nature.com/articles/s41586-024-07578-8) · *Nature* 2024 — multi-donor organoids that expose how genetic background shapes vulnerability to insult
-- [Spatiotemporal transcriptomic maps of whole mouse embryos at the onset of organogenesis](https://www.nature.com/articles/s41588-023-01435-6) · *Nature Genetics* 2023 — a 3D spatiotemporal atlas of the developing mouse embryo, enabling "virtual in situ hybridization" for thousands of genes
+- [Human brain organoids record the passage of time over multiple years in culture](https://www.ncbi.nlm.nih.gov/pubmed/41256667/) · *Nature* 2026 - organoids keep an internal clock across years, tracking developmental time independently of their environment
+- [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers](https://www.nature.com/articles/s41586-024-07578-8) · *Nature* 2024 - multi-donor organoids that expose how genetic background shapes vulnerability to insult
+- [Spatiotemporal transcriptomic maps of whole mouse embryos at the onset of organogenesis](https://www.nature.com/articles/s41588-023-01435-6) · *Nature Genetics* 2023 - a 3D spatiotemporal atlas of the developing mouse embryo, enabling "virtual in situ hybridization" for thousands of genes
 - [Hijacking of transcriptional condensates by endogenous retroviruses](https://www.nature.com/articles/s41588-022-01132-w) · *Nature Genetics* 2022
 - [Epigenetic regulator function through mouse gastrulation](https://www.nature.com/articles/s41586-020-2552-x) · *Nature* 2020
 - [Loss of maternal Trim28 causes male-predominant early embryonic lethality](https://genesdev.cshlp.org/content/31/1/12) · *Genes & Development* 2017
