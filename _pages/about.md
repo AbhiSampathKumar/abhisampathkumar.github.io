@@ -6,6 +6,10 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Microscopy band. Swap the filename to change the image; the fade is in
+     _includes/head/custom.html. -->
+<div class="band" style="--band-img: url('/images/band-home.jpg')"></div>
+
 <p class="tagline">Development generates diversity. Biology preserves it. Can we rewrite it?</p>
 
 <!-- Banner image. Hosted on WordPress -- if that site ever goes away, download the
@@ -26,6 +30,8 @@ My work is driven by one question: **how does a single cell reliably build a com
 - **Maintaining cellular identity** - how genome organization preserves neuronal identity across the lifespan, and what defines the limits of plasticity
 
 [Read more →](/research/)
+
+<div class="band band--strip" style="--band-img: url('/images/band-strip.jpg')"></div>
 
 ## selected work
 

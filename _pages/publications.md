@@ -3,6 +3,9 @@ layout: single
 permalink: /publications/
 title: "Publications"
 author_profile: true
+header:
+  overlay_image: band-publications.jpg   # file lives in images/ ; bare filename
+  overlay_filter: rgba(0, 0, 0, 0.25)
 ---
 
 A complete list is also available on [Google Scholar](https://scholar.google.com/citations?user=-1l953YAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0001-7918-6706).
