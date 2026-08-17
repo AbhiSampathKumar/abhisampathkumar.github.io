@@ -145,8 +145,7 @@
     overflow: visible;
   }
 
-  /* The collapsed nav panel: on a phone this must paint above everything,
-     with an opaque background of its own. */
+  /* The collapsed nav panel, on screens wide enough to use it. */
   .greedy-nav {
     overflow: visible;
   }
@@ -162,8 +161,57 @@
     color: var(--global-text-color);
   }
 
-  .greedy-nav button {
-    z-index: 10000;
+  /* ---- Phones: no dropdown at all ----
+     The theme's greedy nav moves items it thinks won't fit into a toggled panel,
+     which on a phone ends up painted behind the page. Instead, show every link
+     inline and let them wrap onto a second row. The toggle button is hidden
+     because there is nothing left to toggle. ---- */
+  @media (max-width: 700px) {
+    .greedy-nav button {
+      display: none !important;
+    }
+
+    .greedy-nav .visible-links,
+    .greedy-nav .hidden-links {
+      display: flex !important;
+      flex-wrap: wrap;
+      align-items: center;
+      position: static !important;
+      margin: 0;
+      padding: 0;
+      border: none !important;
+      box-shadow: none !important;
+      background: transparent !important;
+      visibility: visible !important;
+      opacity: 1 !important;
+      max-height: none !important;
+      overflow: visible !important;
+    }
+
+    /* the little pointer triangles belong to the dropdown; not needed inline */
+    .greedy-nav .hidden-links::before,
+    .greedy-nav .hidden-links::after {
+      display: none !important;
+    }
+
+    .greedy-nav .visible-links li,
+    .greedy-nav .hidden-links li {
+      display: block !important;
+      border-bottom: none !important;
+    }
+
+    .greedy-nav .visible-links a,
+    .greedy-nav .hidden-links a {
+      margin: 0;
+      padding: 0.3rem 0.7rem 0.3rem 0;
+      font-size: 0.95em;
+    }
+
+    /* the name gets its own line, the section links sit under it */
+    .masthead__menu-item--lg {
+      flex-basis: 100%;
+      padding-right: 0;
+    }
   }
 
   .author__avatar img {
