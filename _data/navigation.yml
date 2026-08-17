@@ -2,6 +2,9 @@
 # Removing an entry hides it from the header but does not delete the page.
 
 main:
+  - title: "Home"
+    url: /
+
   - title: "Research"
     url: /research/
 
