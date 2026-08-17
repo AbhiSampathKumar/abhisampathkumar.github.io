@@ -15,7 +15,7 @@ author_profile: true
 
 Cellular identity underlies the formation, function and regeneration of every tissue in the body. I want to understand the rules that govern how cells acquire, maintain and change it.
 
-Using development as a framework, I study how identity is programmed in the embryo — and ask whether the same principles can be used to reprogram mature tissue.
+Using development as a framework, I study how identity is programmed in the embryo - and ask whether the same principles can be used to reprogram mature tissue.
 
 <!-- Animated overview. The SVG carries its own animation, so it needs no script and
      loops on its own; class="plain" keeps the light-mode figure plate off it. -->
@@ -42,6 +42,6 @@ I study how transient developmental signals are turned into stable cell identiti
 
 Neurons are among the longest-lived cells in the body, and their subtype identities persist for decades. Activity and connectivity stay plastic throughout life; identity does not. The molecular mechanisms that preserve these identities, and limit their ability to change, remain largely unknown.
 
-My current work asks how nuclear architecture and higher-order chromatin organization hold that identity in place. Using genomic, organoid and in vivo approaches, I ask how genome organization preserves neuronal subtype identity across a lifespan — and whether it sets the limits of what can be reprogrammed.
+My current work asks how nuclear architecture and higher-order chromatin organization hold that identity in place. Using genomic, organoid and in vivo approaches, I ask how genome organization preserves neuronal subtype identity across a lifespan - and whether it sets the limits of what can be reprogrammed.
 
 [Featured studies →](/featured-studies/)

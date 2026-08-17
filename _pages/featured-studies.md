@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 <!-- Faded specimens behind the page. Positions and opacity live in
-     _includes/head/custom.html -->
+     _includes/head/custom.html. All figures on this page are now hosted in this
+     repo, so nothing here depends on the WordPress site. -->
 <div class="backdrop backdrop--tl" style="--backdrop-img: url('/images/bd-head.jpg')"></div>
 <div class="backdrop backdrop--br" style="--backdrop-img: url('/images/bd-somite.jpg')"></div>
 
@@ -22,12 +23,12 @@ My work here has focused on the epigenetic mechanisms that set up this program. 
 **Loss of maternal Trim28 causes male-predominant early embryonic lethality**<br>
 *Genes & Development* (2017) · [Paper](https://genesdev.cshlp.org/content/31/1/12) · [Research highlight](https://www.nature.com/articles/nrm.2017.13)
 
-![Loss of maternal Trim28](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-12.07.31.png?w=992)
+![Loss of maternal Trim28](/images/fs-trim28.jpg)
 
 **Hijacking of transcriptional condensates by endogenous retroviruses**<br>
 *Nature Genetics* (2022) · [Paper](https://www.nature.com/articles/s41588-022-01132-w) · [Research highlight](https://www.nature.com/articles/s41588-022-01111-1)
 
-![Hijacking of transcriptional condensates by endogenous retroviruses](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-12.10.39.png?w=1024)
+![Hijacking of transcriptional condensates by endogenous retroviruses](/images/fs-erv-condensates.jpg)
 
 ## Building tissues in space and time
 
@@ -39,7 +40,7 @@ Gastrulation is the pivotal stage of mammalian development, during which pluripo
 
 Using single-cell transcriptomic and epigenomic profiling across mouse gastrulation, we systematically characterized the functions of chromatin regulators during early lineage specification. This work revealed how epigenetic regulators coordinate the emergence of developmental trajectories and established a comprehensive molecular framework for understanding how transient developmental signals become stable cell fates.
 
-![Epigenetic regulator function through mouse gastrulation](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-14.04.26.png?w=1024)
+![Epigenetic regulator function through mouse gastrulation](/images/fs-gastrulation.jpg)
 
 [Paper](https://www.nature.com/articles/s41586-020-2552-x) · [Research highlight](https://www.nature.com/articles/s41576-020-00282-z)
 
@@ -49,7 +50,7 @@ Embryonic development transforms a single cell into a complex organism through p
 
 This atlas enables "virtual in situ hybridization" for thousands of genes and provides a framework for exploring tissue patterning, developmental disorders, and organoid engineering. Together with the accompanying interactive atlas and analysis tools, these resources allow researchers to visualize and interrogate mammalian development at unprecedented spatial resolution.
 
-![Spatiotemporal transcriptomic maps of whole mouse embryos](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-11.42.27.png?w=1024)
+![Spatiotemporal transcriptomic maps of whole mouse embryos](/images/fs-spatial-atlas.jpg)
 
 [Paper](https://www.nature.com/articles/s41588-023-01435-6) · [Interactive data explorer](https://cellxgene.cziscience.com/collections/d74b6979-efba-47cd-990a-9d80ccf29055) · [3D embryo viewer](https://github.com/GuignardLab/napari-sc3D-viewer)
 
