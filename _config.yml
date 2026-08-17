@@ -126,7 +126,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/profile.jpg"
+og_image                 : "profile.jpeg"
 og_description           : *description
 social:
   type                   : Person
