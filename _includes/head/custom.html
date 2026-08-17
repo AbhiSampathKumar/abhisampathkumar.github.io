@@ -136,11 +136,34 @@
     z-index: 0;
   }
 
+  /* Leave the theme's own fixed positioning alone -- overriding it was what
+     trapped the mobile menu behind the header. Just make sure the header sits
+     above the page and never clips its own dropdown. */
   .masthead {
-    position: sticky;
-    top: 0;
-    z-index: 20;
+    z-index: 100;
     background: var(--global-bg-color);
+    overflow: visible;
+  }
+
+  /* The collapsed nav panel: on a phone this must paint above everything,
+     with an opaque background of its own. */
+  .greedy-nav {
+    overflow: visible;
+  }
+
+  .greedy-nav .hidden-links {
+    z-index: 9999;
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-border-color);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.6);
+  }
+
+  .greedy-nav .hidden-links a {
+    color: var(--global-text-color);
+  }
+
+  .greedy-nav button {
+    z-index: 10000;
   }
 
   .author__avatar img {
