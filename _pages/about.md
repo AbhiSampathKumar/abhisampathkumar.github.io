@@ -20,12 +20,13 @@ My work is driven by one question: **how does a single cell reliably build a com
 ## now
 
 - Postdoctoral fellow · [Arlotta Lab](https://hscrb.harvard.edu/labs/arlotta-lab/) · [HSCRB](https://hscrb.harvard.edu), Harvard University & the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research), Broad Institute of MIT and Harvard
-- Nuclear architecture and higher-order chromatin organization as stabilizers of neuronal subtype identity
 
 ## research
 
-- **Programming cellular identity** — how transient developmental signals become stable cell fates. [Read more](/research/)
-- **Maintaining cellular identity** — how genome organization preserves neuronal identity across the lifespan, and what defines the limits of plasticity. [Read more](/research/)
+- **Programming cellular identity** — how transient developmental signals become stable cell fates
+- **Maintaining cellular identity** — how genome organization preserves neuronal identity across the lifespan, and what defines the limits of plasticity
+
+[Read more →](/research/)
 
 ## selected work
 
@@ -38,8 +39,9 @@ My work is driven by one question: **how does a single cell reliably build a com
 
 ## training
 
-- PhD with [Alexander Meissner](https://www.molgen.mpg.de/Department-of-Genome-Regulation), Max Planck Institute for Molecular Genetics · doctoral studies through TU Berlin
-- Earlier training in Singapore and Jena; originally from Chennai, India
+- PhD with [Alexander Meissner](https://www.molgen.mpg.de/meissner-lab), Max Planck Institute for Molecular Genetics · doctoral studies through TU Berlin
+
+![Chennai · Singapore · Jena · Berlin · Boston](https://abhisheksampathkumar.wordpress.com/wp-content/uploads/2026/08/screenshot-2026-08-03-at-17.05.09.png?w=1024)
 
 ## contact
 
