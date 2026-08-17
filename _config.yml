@@ -11,9 +11,9 @@ title                    : "Abhishek Sampath Kumar"
 title_separator          : "·"
 name                     : &name "Abhishek Sampath Kumar"
 description              : &description "Postdoctoral fellow studying how cells acquire, maintain, and change identity."
-url                      : https://abhisheksampathkumar.github.io
+url                      : https://abhisampathkumar.github.io
 baseurl                  : ""
-repository               : "AbhiSampathKumar/abhisheksampathkumar.github.io"
+repository               : "AbhiSampathKumar/abhisampathkumar.github.io"
 
 # Site Author — controls the left-hand sidebar. Blank fields are hidden.
 author:
