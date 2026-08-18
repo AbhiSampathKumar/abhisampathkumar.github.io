@@ -13,9 +13,9 @@ author_profile: true
 
 ## How do cells acquire, maintain, and change identity?
 
-Cellular identity underlies the formation, function and regeneration of every tissue in the body. I want to understand the rules that govern how cells acquire, maintain and change it.
-
-Using development as a framework, I study how identity is programmed in the embryo - and ask whether the same principles can be used to reprogram mature tissue.
+One cell becomes an entire organism, the same way every time. Each cell it makes takes on an
+identity, keeps it for a lifetime, and almost never gives it up. I study how that identity is
+written, what holds it, and whether it can be rewritten.
 
 <!-- Animated overview. The SVG carries its own animation, so it needs no script and
      loops on its own; class="plain" keeps the light-mode figure plate off it. -->
@@ -28,41 +28,46 @@ Using development as a framework, I study how identity is programmed in the embr
 </div>
 
 
-## Maintaining cellular identity
+### Programming cellular identity
+
+**How is a body plan built from a single cell?**
+
+Within days of fertilization, identical cells become different from one another and arrange
+themselves into tissues, reproducibly, embryo after embryo.
+
+We have mapped those decisions at scale. Working across mouse gastrulation and early organogenesis,
+we built an extensive single-cell and spatial map of when fates are chosen, where in the embryo they
+are chosen, and which regulators they depend on. That map is the ground for the harder question: how
+a passing signal becomes a permanent identity.
+
+*Making an identity is one problem. Keeping it is another.*
+
+### Maintaining cellular identity
 
 **What makes an identity robust enough to last a lifetime?**
 
-The cortex holds an enormous diversity of neuronal subtypes, each specified in the embryo and then
-maintained for decades without dividing.
+The cortex is built from many distinct kinds of neurons. Each was specified before birth, and each
+has held that identity ever since, for decades, without ever dividing.
 
-I study the principles that make this maintenance so robust - and whether the same principles are
-what make neurons so resistant to reprogramming.
+I study what makes that stability so durable, and whether it is also what makes neurons resistant to
+reprogramming.
 
-## What in vitro systems reveal
+*To test it, you have to separate what a cell does by itself from what its surroundings tell it,
+which an embryo will never let you do.*
+
+### What in vitro systems reveal
 
 <img class="plain" src="/images/section-organoids.jpg"
      alt="Human brain organoids in cross-section, neuronal subtypes labelled in green and magenta">
 
 **What can a dish show that an embryo hides?**
 
-In an embryo, a cell's own program and the signals around it are difficult to separate. In vitro,
-most of that context is gone, and properties belonging to the cells themselves become measurable.
+Grow the cells alone and the surroundings fall away; what remains belongs to the cells. Time is the
+clearest case: human brain organoids
+[track the passage of time over years in a dish](https://www.ncbi.nlm.nih.gov/pubmed/41256667/),
+with no brain around them to keep it for them.
 
-Timing is the clearest example. In work with the Arlotta lab, we found that human brain organoids
-[record and relay the passage of time over years in culture](https://www.ncbi.nlm.nih.gov/pubmed/41256667/),
-faithfully and without the environment of a developing brain - which suggests the underlying
-epigenetic program is established, and then maintained, with remarkable fidelity.
-
-Which developmental programs are driven by the cells themselves? Which require the embryo? And how
-does the environment of a real embryo modify, accelerate or constrain a program the cells could
-otherwise run alone?
-
-## Programming cellular identity
-
-**How is a body plan built from a single cell?**
-
-Embryonic development transforms a single fertilized egg into a complex organism with extraordinary precision. Within days, genetically identical cells acquire distinct identities and organize into reproducible tissues and organs. How these developmental decisions are coordinated with such precision remains one of the central questions in developmental biology.
-
-I study how transient developmental signals are turned into stable cell identities. By building single-cell and spatial atlases of mouse embryogenesis, and by perturbing developmental regulators in the embryo, I follow how cell fate is established at the same time as tissues are patterned.
+So which parts of development do cells run themselves? Which need an embryo? And what does the embryo
+add: speed, order, limits?
 
 [Featured studies →](/featured-studies/)
