@@ -33,12 +33,10 @@ Using development as a framework, I study how identity is programmed in the embr
 **What makes an identity robust enough to last a lifetime?**
 
 The cortex holds an enormous diversity of neuronal subtypes, each specified in the embryo and then
-maintained for decades without dividing. My PhD asked how chromatin regulators establish identity.
-My postdoc asks what holds it.
+maintained for decades without dividing.
 
-I study how nuclear architecture and higher-order genome organization stabilize neuronal subtype
-identity - and whether the machinery that makes maintenance so robust is the same machinery that
-makes neurons so resistant to reprogramming.
+I study the principles that make this maintenance so robust - and whether the same principles are
+what make neurons so resistant to reprogramming.
 
 ## What in vitro systems reveal
 
@@ -55,13 +53,11 @@ Timing is the clearest example. In work with the Arlotta lab, we found that huma
 faithfully and without the environment of a developing brain - which suggests the underlying
 epigenetic program is established, and then maintained, with remarkable fidelity.
 
-That raises the questions I now work on. Which developmental programs are driven by the cells
-themselves? Which require the embryo? And how does the environment of a real embryo modify, accelerate
-or constrain a program the cells could otherwise run alone?
+Which developmental programs are driven by the cells themselves? Which require the embryo? And how
+does the environment of a real embryo modify, accelerate or constrain a program the cells could
+otherwise run alone?
 
 ## Programming cellular identity
-
-*Where this came from - my doctoral work.*
 
 **How is a body plan built from a single cell?**
 

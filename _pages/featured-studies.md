@@ -20,29 +20,19 @@ The earliest stages of mammalian development rely on a carefully orchestrated mo
 
 My work here has focused on the epigenetic mechanisms that set up this program. Studying maternal chromatin regulators and endogenous retroviruses in the early embryo, we identified pathways that shape its earliest stages and lay the ground for later fate decisions.
 
-**Loss of maternal Trim28 causes male-predominant early embryonic lethality**<br>
-*Genes & Development* (2017) · [Paper](https://genesdev.cshlp.org/content/31/1/12) · [Research highlight](https://www.nature.com/articles/nrm.2017.13)
-
-![Loss of maternal Trim28](/images/fs-trim28.jpg)
-
 **Hijacking of transcriptional condensates by endogenous retroviruses**<br>
 *Nature Genetics* (2022) · [Paper](https://www.nature.com/articles/s41588-022-01132-w) · [Research highlight](https://www.nature.com/articles/s41588-022-01111-1)
 
 ![Hijacking of transcriptional condensates by endogenous retroviruses](/images/fs-erv-condensates.jpg)
 
+**Loss of maternal Trim28 causes male-predominant early embryonic lethality**<br>
+*Genes & Development* (2017) · [Paper](https://genesdev.cshlp.org/content/31/1/12) · [Research highlight](https://www.nature.com/articles/nrm.2017.13)
+
+![Loss of maternal Trim28](/images/fs-trim28.jpg)
+
 ## Building tissues in space and time
 
-### Epigenetic regulator function through mouse gastrulation · *Nature* 2020
-
 **How are lineage decisions coordinated in time?**
-
-Gastrulation is the pivotal stage of mammalian development, during which pluripotent cells diversify into the three germ layers and the progenitors of every future organ. Understanding how these lineage decisions are coordinated in time remains a central challenge in developmental biology.
-
-Using single-cell transcriptomic and epigenomic profiling across mouse gastrulation, we systematically characterized the functions of chromatin regulators during early lineage specification. This work revealed how epigenetic regulators coordinate the emergence of developmental trajectories and established a comprehensive molecular framework for understanding how transient developmental signals become stable cell fates.
-
-![Epigenetic regulator function through mouse gastrulation](/images/fs-gastrulation.jpg)
-
-[Paper](https://www.nature.com/articles/s41586-020-2552-x) · [Research highlight](https://www.nature.com/articles/s41576-020-00282-z)
 
 ### Spatiotemporal transcriptomic maps of whole mouse embryos at the onset of organogenesis · *Nature Genetics* 2023
 
@@ -55,3 +45,13 @@ This atlas enables "virtual in situ hybridization" for thousands of genes and pr
 [Paper](https://www.nature.com/articles/s41588-023-01435-6) · [Interactive data explorer](https://cellxgene.cziscience.com/collections/d74b6979-efba-47cd-990a-9d80ccf29055) · [3D embryo viewer](https://github.com/GuignardLab/napari-sc3D-viewer)
 
 I presented this work as an invited talk, *Spatiotemporal architecture of mouse embryogenesis at single-cell resolution*, in the Takara Bio spatial genomics webinar series. [Watch the webinar](https://www.takarabio.com/learning-centers/spatial-omics/library/webinars)
+
+### Epigenetic regulator function through mouse gastrulation · *Nature* 2020
+
+Gastrulation is the pivotal stage of mammalian development, during which pluripotent cells diversify into the three germ layers and the progenitors of every future organ. Understanding how these lineage decisions are coordinated in time remains a central challenge in developmental biology.
+
+Using single-cell transcriptomic and epigenomic profiling across mouse gastrulation, we systematically characterized the functions of chromatin regulators during early lineage specification. This work revealed how epigenetic regulators coordinate the emergence of developmental trajectories and established a comprehensive molecular framework for understanding how transient developmental signals become stable cell fates.
+
+![Epigenetic regulator function through mouse gastrulation](/images/fs-gastrulation.jpg)
+
+[Paper](https://www.nature.com/articles/s41586-020-2552-x) · [Research highlight](https://www.nature.com/articles/s41576-020-00282-z)

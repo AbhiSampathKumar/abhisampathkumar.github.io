@@ -30,7 +30,7 @@ My work is driven by one question: **how does a single cell reliably build a com
 ## research
 
 - **Programming cellular identity** - how transient developmental signals become stable cell fates
-- **Maintaining cellular identity** - how genome organization preserves neuronal identity across the lifespan, and what defines the limits of plasticity
+- **Maintaining cellular identity** - what makes neuronal identity so stable across a lifetime, and what sets the limits of plasticity
 
 [Read more →](/research/)
 

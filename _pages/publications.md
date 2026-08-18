@@ -22,9 +22,15 @@ A complete list is also available on [Google Scholar](https://scholar.google.com
 
 **Sampath Kumar A**, Tian L, Bolondi A, Hernández AA, Stickels R, Kretzmer H, Murray E, Wittler L, Walther M, Barakat G, Haut L, Elkabetz Y, Macosko EZ, Guignard L, Chen F, Meissner A. [Spatiotemporal transcriptomic maps of whole mouse embryos at the onset of organogenesis.](https://www.ncbi.nlm.nih.gov/pubmed/37414952/) ***Nature Genetics***. 2023 Jul;55(7):1176-1185. doi: 10.1038/s41588-023-01435-6. PMID: 37414952; PMCID: PMC10335937.
 
+*See research highlight* · Innovations in Stem Cell Biology (Genomics in Stem Cells and Development), Nature Portfolio, 2024
+
 Asimi V, **Sampath Kumar A**, Niskanen H, Riemenschneider C, Hetzel S, Naderi J, Fasching N, Popitsch N, Du M, Kretzmer H, Smith ZD, Weigert R, Walther M, Mamde S, Meierhofer D, Wittler L, Buschow R, Timmermann B, Cisse II, Ameres SL, Meissner A, Hnisz D. [Hijacking of transcriptional condensates by endogenous retroviruses.](https://www.ncbi.nlm.nih.gov/pubmed/35864192/) ***Nature Genetics***. 2022 Aug;54(8):1238-1247. doi: 10.1038/s41588-022-01132-w. PMID: 35864192; PMCID: PMC9355880.
 
+*See research highlight* · [News & Views, *Nature Genetics*](https://doi.org/10.1038/s41588-022-01111-1) · Innovations in Stem Cell Biology (Disease Models and Therapies), Nature Portfolio, 2023
+
 **Sampath Kumar A**, Seah MK, Ling KY, Wang Y, Tan JH, Nitsch S, Lim SL, Lorthongpanich C, Wollmann H, Low DH, Guccione E, Messerschmidt DM. [Loss of maternal Trim28 causes male-predominant early embryonic lethality.](https://www.ncbi.nlm.nih.gov/pubmed/28115466/) ***Genes and Development***. 2017 Jan 1;31(1):12-17. doi: 10.1101/gad.291195.116. PMID: 28115466; PMCID: PMC5287108.
+
+*See research highlight* · [News & Views, *Nature Reviews Molecular Cell Biology*](https://doi.org/10.1038/nrm.2017.13)
 
 ## Co-author work
 
@@ -32,7 +38,11 @@ Faravelli I, Antón-Bolaños N, Wei A, Faits T, **Sampath Kumar A**, Andreadis S
 
 You Y, Fu Y, Li L, Zhang Z, Jia S, Lu S, Ren W, Liu Y, Xu Y, Liu X, Jiang F, Peng G, **Sampath Kumar A**, Ritchie ME, Liu X, Tian L. [Systematic comparison of sequencing-based spatial transcriptomic methods.](https://www.ncbi.nlm.nih.gov/pubmed/38965443/) ***Nature Methods***. 2024 Sep;21(9):1743-1754. doi: 10.1038/s41592-024-02325-3. PMID: 38965443; PMCID: PMC11399101.
 
-Antón-Bolaños N, Faravelli I, Faits T, Andreadis S, Kastli R, Trattaro S, Adiconis X, Wei A, **Sampath Kumar A**, Di Bella DJ, Tegtmeyer M, Nehme R, Levin JZ, Regev A, Arlotta P. [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers.](https://www.ncbi.nlm.nih.gov/pubmed/38926573/) ***Nature***. 2024 Jul;631(8019):142-149. doi: 10.1038/s41586-024-07578-8. PMID: 38926573; PMCID: PMC11338177.
+*See research highlight* · [Editorial, *Nature Methods*](https://doi.org/10.1038/s41592-024-02326-2)
+
+Antón-Bolaños N\*, Faravelli I\*, Faits T, Andreadis S, Kastli R, Trattaro S, Adiconis X, Wei A, **Sampath Kumar A**, Di Bella DJ, Tegtmeyer M, Nehme R, Levin JZ, Regev A, Arlotta P. [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers.](https://www.ncbi.nlm.nih.gov/pubmed/38926573/) ***Nature***. 2024 Jul;631(8019):142-149. doi: 10.1038/s41586-024-07578-8. PMID: 38926573; PMCID: PMC11338177. \*Equal contribution.
+
+*See research highlight* · [Nature News](https://doi.org/10.1038/d41586-024-02096-z) · [News & Views, *Nature*](https://doi.org/10.1038/d41586-024-01648-7) · *Nature Reviews Bioengineering*
 
 Stötzel M, Cheng CY, IIik IA, **Sampath Kumar A**, Omgba PA, van der Weijden VA, Zhang Y, Vingron M, Meissner A, Aktaş T, Kretzmer H, Bulut-Karslioğlu A. [TET activity safeguards pluripotency throughout embryonic dormancy.](https://www.ncbi.nlm.nih.gov/pubmed/38783076/) ***Nature Structural and Molecular Biology***. 2024 Oct;31(10):1625-1639. doi: 10.1038/s41594-024-01313-7. PMID: 38783076; PMCID: PMC11479945.
 
