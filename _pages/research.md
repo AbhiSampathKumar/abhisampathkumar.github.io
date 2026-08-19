@@ -64,7 +64,7 @@ which an embryo will never let you do.*
 
 Grow the cells alone and the surroundings fall away; what remains belongs to the cells. Time is the
 clearest case: human brain organoids
-[track the passage of time over years in a dish](https://www.ncbi.nlm.nih.gov/pubmed/41256667/),
+[track the passage of time over years in a dish](https://www.nature.com/articles/s41586-026-10877-x),
 with no brain around them to keep it for them.
 
 So which parts of development do cells run themselves? Which need an embryo? And what does the embryo

@@ -36,7 +36,7 @@ My work is driven by one question: **how does a single cell reliably build a com
 
 ## selected work
 
-- [Human brain organoids record the passage of time over multiple years in culture](https://www.ncbi.nlm.nih.gov/pubmed/41256667/) · *Nature* 2026 - organoids keep an internal clock across years, tracking developmental time independently of their environment
+- [Human brain organoids record the passage of time over multiple years](https://www.nature.com/articles/s41586-026-10877-x) · *Nature* 2026 - organoids keep an internal clock across years, tracking developmental time independently of their environment
 - [Spatiotemporal transcriptomic maps of whole mouse embryos at the onset of organogenesis](https://www.nature.com/articles/s41588-023-01435-6) · *Nature Genetics* 2023 - a 3D spatiotemporal atlas of the developing mouse embryo, enabling "virtual in situ hybridization" for thousands of genes
 - [Hijacking of transcriptional condensates by endogenous retroviruses](https://www.nature.com/articles/s41588-022-01132-w) · *Nature Genetics* 2022 - retroelements capture transcriptional condensates, redirecting the machinery that drives gene expression
 - [Epigenetic regulator function through mouse gastrulation](https://www.nature.com/articles/s41586-020-2552-x) · *Nature* 2020 - a systematic map of how chromatin regulators shape lineage decisions as the germ layers emerge

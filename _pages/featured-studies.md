@@ -12,6 +12,29 @@ author_profile: true
 <div class="backdrop backdrop--br" style="--backdrop-img: url('/images/bd-somite.jpg')"></div>
 
 
+## Keeping time in a dish
+
+**Can cells measure time on their own?**
+
+In an embryo, developmental time is easy to hand to the surroundings. Signals arrive on a schedule, and every tissue is paced by the ones beside it. Human brain organoids have none of that, and they keep time anyway.
+
+We followed human brain organoids for up to five years, far longer than these cultures are usually kept, and asked whether development stalls once the early programs are done. It does not.
+
+The clearest record is in the epigenome. Continuous culture tends to drift, wandering away from the state the cells started in. These organoids hold their ground: global DNA methylation stays stable across years. What changes is specific. Methylation shifts at defined regions of the genome, and those regions sit at programs used to build the brain. The methylome is not eroding, it is moving where development would move it.
+
+One change is hard to account for any other way. CpA methylation, a non-canonical form found mainly in neurons after birth, begins to accumulate from around nine months in culture. A postnatal program comes on in a dish, with no birth, no sensory input, and no body to cue it.
+
+Epigenetic clocks read all of this as age. Predicted methylation age rises with time in culture at close to the expected rate over five years, so an organoid's age can be read from its methylome alone.
+
+If time is tracked with no brain around the cells to track it for them, then part of the developmental schedule is carried by the cells themselves.
+
+**Human brain organoids record the passage of time over multiple years**<br>
+*Nature* (2026) · [Paper](https://www.nature.com/articles/s41586-026-10877-x)
+
+![Human brain organoids from six months to five years in culture, and an epigenetic clock predicting organoid age from time in culture](/images/fs-organoid-time.jpg)
+
+*Organoids from six months to five years in culture, and predicted epigenetic age tracking time in culture.*
+
 ## The first developmental programs
 
 **How are the first developmental programs established?**

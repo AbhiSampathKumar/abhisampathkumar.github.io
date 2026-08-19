@@ -34,7 +34,7 @@ Asimi V, **Sampath Kumar A**, Niskanen H, Riemenschneider C, Hetzel S, Naderi J,
 
 ## Co-author work
 
-Faravelli I, Antón-Bolaños N, Wei A, Faits T, **Sampath Kumar A**, Andreadis S, Kastli R, Montero Crespo M, Steiger M, Leible D, Zhang E, An B, Meirovitch Y, Silwal S, Yang SM, Kovacsovics A, Adiconis X, Kretzmer H, Levin JZ, Boyden ES, Lichtman J, Regev A, Meissner A, Arlotta P. [Human brain organoids record the passage of time over multiple years in culture.](https://www.ncbi.nlm.nih.gov/pubmed/41256667/) *bioRxiv*. 2025 Oct 2. doi: 10.1101/2025.10.01.679721. PMID: 41256667; PMCID: PMC12622013. (***Nature*** 2026)
+Faravelli I, Antón-Bolaños N, Wei A, Faits T, **Sampath Kumar A**, Andreadis S, Kastli R, Montero Crespo M, Steiger M, Leible D, Zhang E, An B, Meirovitch Y, Silwal S, Yang SM, Kovacsovics A, Adiconis X, Kretzmer H, Levin JZ, Boyden ES, Lichtman J, Regev A, Meissner A, Arlotta P. [Human brain organoids record the passage of time over multiple years.](https://www.nature.com/articles/s41586-026-10877-x) ***Nature***. 2026 Aug 19. doi: 10.1038/s41586-026-10877-x. Advance online publication.
 
 You Y, Fu Y, Li L, Zhang Z, Jia S, Lu S, Ren W, Liu Y, Xu Y, Liu X, Jiang F, Peng G, **Sampath Kumar A**, Ritchie ME, Liu X, Tian L. [Systematic comparison of sequencing-based spatial transcriptomic methods.](https://www.ncbi.nlm.nih.gov/pubmed/38965443/) ***Nature Methods***. 2024 Sep;21(9):1743-1754. doi: 10.1038/s41592-024-02325-3. PMID: 38965443; PMCID: PMC11399101.
 
