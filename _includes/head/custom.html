@@ -150,6 +150,23 @@
     overflow: visible;
   }
 
+  /* ---- Anchor links ----
+     The masthead is fixed, so a jump to /featured-studies/#organoids would put
+     the heading underneath it. Leave room above any heading that can be linked
+     to directly. ---- */
+  .page__content h2[id],
+  .page__content h3[id] {
+    scroll-margin-top: 5.5rem;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+  }
+
   .greedy-nav .hidden-links {
     z-index: 9999;
     background: var(--global-bg-color);
@@ -388,6 +405,12 @@
       margin-right: calc(50% - 50vw);
     }
 
+    /* The video stays inside the column on phones; full bleed would make the
+       black frame swallow the screen. */
+    .page__content video.plain {
+      max-width: 100%;
+    }
+
     .figscroll {
       width: 100vw;
       margin-left: calc(50% - 50vw);
@@ -464,11 +487,22 @@
     border: none;
   }
 
-  .page__content img.plain {
+  .page__content img.plain,
+  .page__content video.plain {
     display: block;
     width: 100%;
     height: auto;
     margin: 1.2em 0;
+  }
+
+  /* The rotating embryo. Its own aspect ratio is reserved so the page does not
+     jump while the file loads, and the black frame is capped short of full
+     column width so it does not dominate the section. */
+  .page__content video.plain {
+    aspect-ratio: 652 / 578;
+    max-width: 520px;
+    margin: 1.4em auto 0.6em;
+    background: #000;
   }
 
   /* The animated schematic: full column width, its own aspect ratio reserved so the
