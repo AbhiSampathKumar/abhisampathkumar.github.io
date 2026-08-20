@@ -175,6 +175,32 @@ exclude:
   - README
   - tmp
   - vendor
+  # ---- Template leftovers ----
+  # Pages and files that ship with AcademicPages but are not part of this site.
+  # Excluding them keeps them out of the build and out of sitemap.xml, so search
+  # engines are not told that an empty CV page or a placeholder PDF matters as
+  # much as the Research page. Listing a path that does not exist is harmless,
+  # and nothing here is deleted: remove a line to bring a page back.
+  - _pages/cv.md
+  - _pages/category-archive.md
+  - _pages/tag-archive.md
+  - _pages/year-archive.md
+  - _pages/collection-archive.md
+  - _pages/archive-layout-with-content.md
+  - _pages/portfolio.md
+  - _pages/talks.md
+  - _pages/talkmap.md
+  - _pages/teaching.md
+  - _pages/markdown.md
+  - _pages/terms.md
+  - markdown_generator
+  - talkmap
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
 keep_files:
   - .git
   - .svn
