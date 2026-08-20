@@ -182,11 +182,20 @@ exclude:
   # much as the Research page. Listing a path that does not exist is harmless,
   # and nothing here is deleted: remove a line to bring a page back.
   - _pages/cv.md
+  # The archive pages ship as .html in this theme, not .md, so both spellings
+  # are listed here.
   - _pages/category-archive.md
+  - _pages/category-archive.html
   - _pages/tag-archive.md
+  - _pages/tag-archive.html
   - _pages/year-archive.md
+  - _pages/year-archive.html
   - _pages/collection-archive.md
+  - _pages/collection-archive.html
+  - _pages/page-archive.md
+  - _pages/page-archive.html
   - _pages/archive-layout-with-content.md
+  - _pages/archive-layout-with-content.html
   - _pages/portfolio.md
   - _pages/talks.md
   - _pages/talkmap.md
