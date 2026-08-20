@@ -3,6 +3,9 @@ layout: single
 permalink: /featured-studies/
 title: "Featured studies"
 author_profile: true
+excerpt: "Human brain organoids keep developmental time for years in a dish, and four more studies on how cells acquire, arrange and hold an identity."
+og_image: "og-organoids.jpg"
+og_image_alt: "Human brain organoids from six months to five years in culture, beside an epigenetic clock that tracks their age from time in culture"
 ---
 
 <!-- Faded specimens behind the page. Positions and opacity live in
@@ -101,7 +104,9 @@ The clearest record is in the epigenome. Continuous culture tends to drift, wand
 
 One change is hard to account for any other way. CpA methylation, a non-canonical form found mainly in neurons after birth, begins to accumulate from around nine months in culture. A postnatal program comes on in a dish, with no birth, no sensory input, and no body to cue it.
 
-Epigenetic clocks read all of this as age. Predicted methylation age rises with time in culture at close to the expected rate over five years, so an organoid's age can be read from its methylome alone.
+Epigenetic clocks read all of this as age. They are sets of methylation sites whose state shifts so predictably with age that a person's age can be estimated from a blood sample, and applied here they read the years in culture: predicted age climbs across five years at close to the expected rate.
+
+Human brain development is slow. Much of what makes it distinctive takes months and years, and that stretch has been the hardest to study in culture. Cells that keep their own time for years are a way into it.
 
 If time is tracked with no brain around the cells to track it for them, then part of the developmental schedule is carried by the cells themselves.
 
