@@ -26,9 +26,16 @@ Fertilization does not start from nothing. The egg arrives stocked with proteins
 
 **Protection from reprogramming reaches beyond imprinting, and a single unprotected gene on the Y chromosome is enough to halt development in male embryos.**
 
+<!-- Graphical abstract. The SVG carries its own animation, so it needs no script
+     and loops on its own; class="plain" keeps the light-mode figure plate off it. -->
+<img class="plain gabs" src="/images/gfx-trim28-anim.svg"
+     alt="After fertilization the genome is stripped of DNA methylation. TRIM28 holds a few sites,
+          the imprints and Rbmy1a1 on the Y chromosome. Without maternal TRIM28 that gene is
+          switched on and male embryos arrest.">
+
 ![Maternal Trim28 loss causes developmental arrest and a strong loss of male embryos after implantation](/images/fs-trim28.jpg)
 
-*Without maternal Trim28, most embryos arrest. Among those that survive implantation, few are male.*
+*Most embryos arrest, and among those that survive implantation, few are male.*
 
 After fertilization the embryo strips away most of the DNA methylation it inherits, shielding only a handful of sites: the imprints that keep maternal and paternal copies of certain genes distinguishable. In embryos that develop without maternal TRIM28, development stops around implantation, and not evenly between the sexes. Males are lost. The reason sits on the Y chromosome. *Rbmy1a1* is heavily methylated in sperm and holds that methylation through reprogramming because TRIM28 protects it. Without that protection the promoter loses its methylation, the gene switches on where it should be silent, and the embryos carrying it fail.
 
