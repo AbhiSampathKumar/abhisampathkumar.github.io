@@ -24,6 +24,8 @@ A complete list is also available on [Google Scholar](https://scholar.google.com
 
 *See research highlight* · Innovations in Stem Cell Biology (Genomics in Stem Cells and Development), Nature Portfolio, 2024
 
+*Also covered* · [Paper Talk podcast](https://podcasts.apple.com/us/podcast/960-spatiotemporal-maps-of-whole-mouse-embryos/id1827948841?i=1000767431322), 2026
+
 Asimi V, **Sampath Kumar A**, Niskanen H, Riemenschneider C, Hetzel S, Naderi J, Fasching N, Popitsch N, Du M, Kretzmer H, Smith ZD, Weigert R, Walther M, Mamde S, Meierhofer D, Wittler L, Buschow R, Timmermann B, Cisse II, Ameres SL, Meissner A, Hnisz D. [Hijacking of transcriptional condensates by endogenous retroviruses.](https://www.ncbi.nlm.nih.gov/pubmed/35864192/) ***Nature Genetics***. 2022 Aug;54(8):1238-1247. doi: 10.1038/s41588-022-01132-w. PMID: 35864192; PMCID: PMC9355880.
 
 *See research highlight* · [News & Views, *Nature Genetics*](https://doi.org/10.1038/s41588-022-01111-1) · Innovations in Stem Cell Biology (Disease Models and Therapies), Nature Portfolio, 2023
