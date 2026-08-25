@@ -87,7 +87,7 @@ To read cells one at a time, you first have to take the embryo apart. That gives
 
 [Paper](https://www.nature.com/articles/s41588-023-01435-6) · [Interactive data explorer](https://cellxgene.cziscience.com/collections/d74b6979-efba-47cd-990a-9d80ccf29055) · [3D embryo viewer](https://github.com/GuignardLab/napari-sc3D-viewer)
 
-I presented this work as an invited talk, *Spatiotemporal architecture of mouse embryogenesis at single-cell resolution*, in the Takara Bio spatial genomics webinar series. [Watch the webinar](https://www.takarabio.com/learning-centers/spatial-omics/library/webinars)
+I presented this work as an invited talk, *Spatiotemporal architecture of mouse embryogenesis at single-cell resolution*, in the Takara Bio spatial genomics webinar series. [Watch the webinar](https://www.takarabio.com/learning-centers/spatial-omics/library/webinars) · The atlas was also the subject of an episode of the *Paper Talk* podcast. [Listen](https://podcasts.apple.com/us/podcast/960-spatiotemporal-maps-of-whole-mouse-embryos/id1827948841?i=1000767431322)
 
 ## Keeping time in a dish
 {: #organoids }

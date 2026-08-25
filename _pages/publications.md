@@ -40,7 +40,7 @@ You Y, Fu Y, Li L, Zhang Z, Jia S, Lu S, Ren W, Liu Y, Xu Y, Liu X, Jiang F, Pen
 
 *See research highlight* · [Editorial, *Nature Methods*](https://doi.org/10.1038/s41592-024-02326-2)
 
-Antón-Bolaños N\*, Faravelli I\*, Faits T, Andreadis S, Kastli R, Trattaro S, Adiconis X, Wei A, **Sampath Kumar A**, Di Bella DJ, Tegtmeyer M, Nehme R, Levin JZ, Regev A, Arlotta P. [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers.](https://www.ncbi.nlm.nih.gov/pubmed/38926573/) ***Nature***. 2024 Jul;631(8019):142-149. doi: 10.1038/s41586-024-07578-8. PMID: 38926573; PMCID: PMC11338177. \*Equal contribution.
+Antón-Bolaños N, Faravelli I, Faits T, Andreadis S, Kastli R, Trattaro S, Adiconis X, Wei A, **Sampath Kumar A**, Di Bella DJ, Tegtmeyer M, Nehme R, Levin JZ, Regev A, Arlotta P. [Brain Chimeroids reveal individual susceptibility to neurotoxic triggers.](https://www.ncbi.nlm.nih.gov/pubmed/38926573/) ***Nature***. 2024 Jul;631(8019):142-149. doi: 10.1038/s41586-024-07578-8. PMID: 38926573; PMCID: PMC11338177.
 
 *See research highlight* · [Nature News](https://doi.org/10.1038/d41586-024-02096-z) · [News & Views, *Nature*](https://doi.org/10.1038/d41586-024-01648-7) · *Nature Reviews Bioengineering*
 
