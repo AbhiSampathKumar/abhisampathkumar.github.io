@@ -181,7 +181,6 @@ exclude:
   # engines are not told that an empty CV page or a placeholder PDF matters as
   # much as the Research page. Listing a path that does not exist is harmless,
   # and nothing here is deleted: remove a line to bring a page back.
-  - _pages/cv.md
   # The archive pages ship as .html in this theme, not .md, so both spellings
   # are listed here.
   - _pages/category-archive.md
