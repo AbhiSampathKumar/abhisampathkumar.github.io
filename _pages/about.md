@@ -26,6 +26,7 @@ My work is driven by one question: **how does a single cell reliably build a com
 ## now
 
 - Postdoctoral fellow · [Arlotta Lab](https://hscrb.harvard.edu/labs/arlotta-lab/) · [HSCRB](https://hscrb.harvard.edu), Harvard University & the [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley-center-for-psychiatric-research), Broad Institute of MIT and Harvard
+- Denise A. and Eugene W. Chinery Research Scholar
 
 ## research
 
