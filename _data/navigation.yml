@@ -14,6 +14,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # Uncomment once you add files/cv.pdf and _pages/cv.md
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
